@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a = 0,b = 0;
+    char c = '-';
+    cout << "请输入生日（用符号分开）：";
+    cin >> a >> c >> b;
+    if (a <= 12 && a > 0 && b <= 31 && b > 0){
+        cout << "真";
+    }else{
+        cout << "假";
+    }
+    return 0;
+}
