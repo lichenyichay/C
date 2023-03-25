@@ -5,7 +5,7 @@
 所有文件按照对应题目提交均为满分且格式一致
 格式如下：
 ```C++
-#include<bit/c++.h>     #万能头文件
+#include<bit/stdc++.h>     #万能头文件
 using namespace std;
 
 int main()
