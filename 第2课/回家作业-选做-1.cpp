@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>// ÍòÄÜÍ·ÎÄ¼ş 
+#include <bits/stdc++.h>// ä¸‡èƒ½å¤´æ–‡ä»¶
 using namespace std;
 int main() {
 	int x,y,a,b,c,d;
